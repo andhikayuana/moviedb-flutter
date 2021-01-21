@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "moviedb_flutter",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=MOVIEDB_API_KEY=79aa709bee597100a4ce1190ae390b6a"
+            ]
+        }
+    ]
+}
